@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import requests
 
-ALPHA_VANTAGE_API_KEY = 'W8H58CO5376JOGSU'
+ALPHA_VANTAGE_API_KEY = 'API KEY'
 
 def get_user_input(prompt):
     return input(prompt).strip()
